@@ -1,4 +1,4 @@
-# chat-API Gemini
+# chat API Gemini
 API Gemini com um chat simples.  
 ---
 Ele inclui:  

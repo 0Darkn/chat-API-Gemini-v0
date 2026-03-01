@@ -1,3 +1,4 @@
+[English](https://github.com/0Darkn/chat-API-Gemini-v0/blob/main/en-README.md)
 # chat API Gemini
 API Gemini com um chat simples.  
 ---
